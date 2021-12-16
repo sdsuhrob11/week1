@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*":{
-      "X-Author": "sdsuhrob"
+      "X-Author": "sdsuhrob",
+      "Access-Control-Allow-Origin": "*"
       
      }
   }
